@@ -1,0 +1,27 @@
+{
+  "name": "learn_cypress",
+  "version": "1.0.0",
+  "description": "Learn automation with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhphong1110/Learn_Cypress.git"
+  },
+  "keywords": [
+    "testing",
+    "automation",
+    "cypress"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhphong1110/Learn_Cypress/issues"
+  },
+  "homepage": "https://github.com/anhphong1110/Learn_Cypress#readme",
+  "dependencies": {
+    "cypress": "^5.0.0"
+  }
+}
